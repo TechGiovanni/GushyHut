@@ -1,0 +1,23 @@
+POST https://api.beehiiv.com/v2/publications/pub_ef6a608a-e3a4-4cd1-be9a-32c4aa95c1d9/subscriptions
+Content-Type: 'application/json'
+Authorization: 'Bearer xRaSvAhf4Uhhloks9PJSTJBzCRAE9hfRhWaOqrwnBZgYUeqI0KSTzhfrqM0OEAUx'
+
+{
+  "email": "bruce.wayne@wayneenterprise.com",
+  "reactivate_existing": false,
+  "send_welcome_email": false,
+  "utm_source": "WayneEnterprise",
+  "utm_campaign": "fall_2022_promotion",
+  "utm_medium": "organic",
+  "referring_site": "www.wayneenterprise.com/blog",
+  "custom_fields": [
+    {
+      "name": "First Name",
+      "value": "Bruce",
+    },
+    {
+      "name": "Last Name",
+      "value": "Wayne",
+    },
+  ],
+}
