@@ -13,7 +13,6 @@ function App() {
 
 		const config = {
 			headers: {
-				Accept: 'application/json',
 				'Content-Type': 'application/json',
 				Authorization:
 					'Bearer xRaSvAhf4Uhhloks9PJSTJBzCRAE9hfRhWaOqrwnBZgYUeqI0KSTzhfrqM0OEAUx',
