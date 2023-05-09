@@ -14,7 +14,7 @@ const Home = () => {
             <h2>
               {/* eslint-disable-next-line prettier/prettier */}
               Join 250,000+ subscribers and get our 5 min daily newsletter
-              keeping innovators in the loop.
+              keeping innovators in the loop. Hello
               <strong>Hello</strong>
             </h2>
             <NewsletterForm></NewsletterForm>
